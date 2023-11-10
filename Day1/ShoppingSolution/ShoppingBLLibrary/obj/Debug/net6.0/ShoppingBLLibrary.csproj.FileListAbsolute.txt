@@ -1,0 +1,17 @@
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.deps.json
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.dll
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingBLLibrary.pdb
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingDAMLibrary.dll
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.dll
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingDAMLibrary.pdb
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\bin\Debug\net6.0\ShoppingModelLibrary.pdb
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.AssemblyReference.cache
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfoInputs.cache
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.AssemblyInfo.cs
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CoreCompileInputs.cache
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.csproj.CopyComplete
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.dll
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\refint\ShoppingBLLibrary.dll
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ShoppingBLLibrary.pdb
+D:\hexaware\Day1\ShoppingSolution\ShoppingBLLibrary\obj\Debug\net6.0\ref\ShoppingBLLibrary.dll

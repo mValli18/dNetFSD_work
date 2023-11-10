@@ -1,0 +1,14 @@
+D:\hexaware\Day1\IniSolution\IniAPP\bin\Debug\net6.0\IniAPP.exe
+D:\hexaware\Day1\IniSolution\IniAPP\bin\Debug\net6.0\IniAPP.deps.json
+D:\hexaware\Day1\IniSolution\IniAPP\bin\Debug\net6.0\IniAPP.runtimeconfig.json
+D:\hexaware\Day1\IniSolution\IniAPP\bin\Debug\net6.0\IniAPP.dll
+D:\hexaware\Day1\IniSolution\IniAPP\bin\Debug\net6.0\IniAPP.pdb
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.AssemblyInfoInputs.cache
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.AssemblyInfo.cs
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.csproj.CoreCompileInputs.cache
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.dll
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\refint\IniAPP.dll
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.pdb
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\IniAPP.genruntimeconfig.cache
+D:\hexaware\Day1\IniSolution\IniAPP\obj\Debug\net6.0\ref\IniAPP.dll

@@ -1,0 +1,11 @@
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.deps.json
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.pdb
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.AssemblyInfoInputs.cache
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.AssemblyInfo.cs
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.csproj.CoreCompileInputs.cache
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\refint\ClinicModelLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.pdb
+D:\hexaware\Day1\ClinicSolution\ClinicModelLibrary\obj\Debug\net6.0\ref\ClinicModelLibrary.dll

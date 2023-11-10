@@ -1,0 +1,15 @@
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\bin\Debug\net6.0\ClinicDLLibrary.deps.json
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\bin\Debug\net6.0\ClinicDLLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\bin\Debug\net6.0\ClinicDLLibrary.pdb
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\bin\Debug\net6.0\ClinicModelLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\bin\Debug\net6.0\ClinicModelLibrary.pdb
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.csproj.AssemblyReference.cache
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.AssemblyInfoInputs.cache
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.AssemblyInfo.cs
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.csproj.CoreCompileInputs.cache
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.csproj.CopyComplete
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\refint\ClinicDLLibrary.dll
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ClinicDLLibrary.pdb
+D:\hexaware\Day1\ClinicSolution\ClinicDLLibrary\obj\Debug\net6.0\ref\ClinicDLLibrary.dll
