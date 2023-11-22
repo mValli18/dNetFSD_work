@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hexaware\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj": {}
+    "D:\\hexaware\\work\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj": {}
   },
   "projects": {
-    "D:\\hexaware\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj": {
+    "D:\\hexaware\\work\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hexaware\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj",
+        "projectUniqueName": "D:\\hexaware\\work\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj",
         "projectName": "SolidApp",
-        "projectPath": "D:\\hexaware\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj",
+        "projectPath": "D:\\hexaware\\work\\Day1\\SolidAppSolutuon\\SolidApp\\SolidApp.csproj",
         "packagesPath": "C:\\Users\\personal\\.nuget\\packages\\",
-        "outputPath": "D:\\hexaware\\Day1\\SolidAppSolutuon\\SolidApp\\obj\\",
+        "outputPath": "D:\\hexaware\\work\\Day1\\SolidAppSolutuon\\SolidApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\personal\\AppData\\Roaming\\NuGet\\NuGet.Config",

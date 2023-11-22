@@ -6,6 +6,7 @@ namespace Shopping.Services
 {
     public class CartService : ICartService
     {
+
         private readonly IRepository<int, Cart> _cartRepository;
         private readonly IRepository<int, CartItems> _cartItemRepository;
         private readonly IRepository<int, Product> _productRepository;
@@ -79,10 +80,46 @@ namespace Shopping.Services
             return cartItem != null ? true : false;
         }
 
-        public bool RemoveFromCart(CartDTO cartDTO)
+        private bool DecrementQuantityInCart(int cartNumber, CartDTO cartDTO)
         {
-            throw new NotImplementedException();
+            var cartItem = _cartItemRepository.GetAll()
+                .FirstOrDefault(ci => ci.CartNumber == cartNumber && ci.Product_Id == cartDTO.ProductId);
+            cartItem.Quantity -= cartDTO.Quantity;
+            int ProductId = cartDTO.ProductId;
+            if (cartItem.Quantity == 0)
+            {
+                var result1 = _cartItemRepository.Delete(ProductId);
+                if (result1 != null)
+                    return true;
+            }
+            else if (cartItem.Quantity < 0)
+            {
+                return false;
+            }
+            var result = _cartItemRepository.Update(cartItem);
+            if (result != null)
+                return true;
+            return false;
         }
 
+        public bool RemoveFromCart(CartDTO cartDTO)
+        {
+            int cartNumber = 0;
+            var cartCheck = _cartRepository.GetAll().FirstOrDefault(c => c.Username == cartDTO.Username);
+            if (cartCheck == null)
+            {
+                return false;
+            }
+            else
+            {
+                cartNumber = cartCheck.cartNumber;
+            }
+            bool CartItemCheck = CheckIfCartItemAlreadyPresent(cartNumber, cartDTO.ProductId);
+            if (CartItemCheck)
+            {
+                return DecrementQuantityInCart(cartNumber, cartDTO);
+            }
+            return false;
+        }
     }
 }
